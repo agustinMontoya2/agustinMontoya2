@@ -19,7 +19,7 @@ Soy un **Desarrollador Backend** apasionado por resolver problemas complejos y o
 Estoy buscando oportunidades para integrarme en un equipo de desarrollo en el que pueda contribuir con mis habilidades backend y seguir aprendiendo. ¡No dudes en contactarme!
 
 ### 📫 ¡Conéctate conmigo!
-- [LinkedIn](www.linkedin.com/in/agustin-montoya-26083031a)
+- [LinkedIn](https://www.linkedin.com/in/agustin-montoya-26083031a)
 - [Correo Electrónico](agus7montoya@gmail.com)
 
 ---
