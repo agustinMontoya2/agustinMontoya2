@@ -20,7 +20,7 @@ Estoy buscando oportunidades para integrarme en un equipo de desarrollo en el qu
 
 ### 📫 ¡Conéctate conmigo!
 - [LinkedIn](https://www.linkedin.com/in/agustin-montoya-26083031a)
-- [Correo Electrónico](agus7montoya@gmail.com)
+- [Correo Electrónico](mailto:agus7montoya@gmail.com)
 
 ---
 
