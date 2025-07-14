@@ -12,7 +12,8 @@ Soy **Desarrollador Full Stack** con foco en backend. Me especializo en construi
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
-- **Backend:**   
+
+- **Backend:**
 <p align="left">
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -21,7 +22,8 @@ Soy **Desarrollador Full Stack** con foco en backend. Me especializo en construi
   <img src="https://img.shields.io/badge/TypeORM-000000?style=for-the-badge&logo=typeorm&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 </p>
-- **Frontend:**  
+
+- **Frontend:**
 <p align="left">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -29,19 +31,22 @@ Soy **Desarrollador Full Stack** con foco en backend. Me especializo en construi
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
 </p>
-- **Bases de datos:**  
+
+- **Bases de datos:**
 <p align="left">
   <!-- Bases de datos -->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
-- **Testing:**   
+
+- **Testing:**
 <p align="left">
   <!-- Testing -->
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white" />
 </p>
-- **Herramientas:** 
+
+- **Herramientas:**
 <p align="left">
   <!-- Herramientas -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
