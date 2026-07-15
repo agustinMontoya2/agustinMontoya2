@@ -1,49 +1,48 @@
 # 👋 Hola, soy Agustín Montoya
+Backend Developer | TypeScript • NestJS • RabbitMQ • PostgreSQL • Redis • OpenTelemetry
 
-Soy **Desarrollador Full Stack con foco en backend**, con experiencia en el diseño y desarrollo de **APIs escalables y sistemas backend productivos**.  
-Trabajo principalmente con **NestJS y PostgreSQL**, aplicando arquitectura modular, control de acceso por permisos, comunicación asincrónica entre servicios y prácticas de observabilidad.
-
-También cuento con experiencia en frontend con **React y Next.js**, manteniendo una visión full stack orientada a producto y calidad técnica.
+Soy **Backend Developer** con experiencia en el diseño y desarrollo de **sistemas distribuidos y APIs escalables** en entornos productivos.  
+Trabajo principalmente con **NestJS, TypeScript y PostgreSQL**, en una arquitectura compuesta por aproximadamente 15 microservicios, aplicando comunicación asincrónica con **RabbitMQ**, estrategias de caché con **Redis** y observabilidad con **OpenTelemetry**.  
+También desarrollé aplicaciones con **React** y **Next.js**, aunque actualmente mi foco está en el desarrollo backend.
 
 ---
 
 ## 🧠 Perfil técnico
 
 - Desarrollo de **APIs REST** con NestJS y TypeORM.
-- Diseño de sistemas backend con **arquitectura modular** y separación de responsabilidades.
-- **Autenticación y autorización** basada en JWT y permisos.
-- **Comunicación asincrónica** entre servicios en contextos de microservicios.
-- **Logging, trazabilidad y monitoreo** en entornos productivos.
+- Diseño de sistemas backend con **arquitectura modular**, DDD y separación de responsabilidades.
+- Diseño e implementación de estrategias de **caché con Redis** invalidada mediante eventos.
+- **Comunicación asincrónica** entre microservicios con RabbitMQ (exchanges, queues, eventos).
+- **Autenticación y autorización** basada en JWT y permisos con CASL.
+- **Observabilidad**: trazas por request con OpenTelemetry e integración con Azure Monitor.
+- Testing automatizado con Jest (unitario, integración y E2E).
 - Trabajo con bases de datos relacionales y no relacionales.
-- Experiencia en **proyecto laboral backend** desarrollado en equipo.
+- Diseño de modelos de datos y relaciones para sistemas backend.
 
 ---
 
 ## 🛠️ Stack técnico
 
 - **Backend:** Node.js, NestJS, Express, TypeORM, Mongoose  
-- **Persistencia:** PostgreSQL, MySQL, MongoDB  
-- **Seguridad y autorización:** JWT, control de acceso por permisos  
-- **Sistemas distribuidos:** comunicación asincrónica entre servicios (mensajería)  
-- **Observabilidad:** logging estructurado y trazabilidad en entornos productivos  
-- **Infraestructura:** Docker  
+- **Persistencia:** PostgreSQL, MongoDB, Redis  
+- **Mensajería y eventos:** RabbitMQ, arquitectura orientada a eventos, CQRS  
+- **Seguridad y autorización:** JWT, Passport, CASL  
+- **Observabilidad:** OpenTelemetry, Azure Monitor / Application Insights, Winston  
+- **Testing:** Jest — unitario, integración y E2E  
+- **Arquitectura:** Domain Driven Design, Clean Architecture, Repository Pattern, Factory Pattern, Event-Driven Architecture, Spec-Driven Development  
+- **Infraestructura:** Docker, Docker Compose, Azure Pipelines, SonarCloud, CI/CD  
 - **Frontend:** React, Next.js  
 
 ---
 
 ## 🚀 Proyectos destacados
 
-### Plataforma Backend para clientes (Proyecto laboral)
-Backend basado en **microservicios** y arquitectura hexagonal, con foco en escalabilidad y evolución futura.  
-Participación en el diseño de dominios y contextos, implementación de **autorización basada en permisos**,  
-**comunicación asincrónica entre servicios** y soluciones de **logging y trazabilidad** en entornos productivos.  
+### Backend Developer — CodeScript (Proyecto laboral)
+Desarrollo y mantenimiento de servicios dentro de una arquitectura distribuida de ~15 microservicios (NestJS, TypeScript, PostgreSQL).  
+Diseño e implementación de la estrategia de **invalidación de caché con Redis** mediante eventos de **RabbitMQ**, flujos asincrónicos entre servicios, participacion en la implementacion de **OpenTelemetry** para trazabilidad distribuida, y autorización basada en roles y permisos con CASL/JWT.
 
-### Plataforma de pedidos para restaurante – Full Stack
-Sistema de pedidos con **NestJS y PostgreSQL**, autenticación, gestión de usuarios con roles, control de estados y colas para cocina y mozos.  
-Frontend desarrollado con React / Next.js.
-
-### E-commerce API Backend
-API REST con autenticación JWT, validación de datos, CRUD de productos y usuarios, relaciones de órdenes y manejo de servicios externos para carga de imágenes.
+### Mr. Patan 2.0 (Proyecto personal — Next.js)
+Aplicación frontend desarrollada con Next.js para la gestión de turnos, mascotas y catálogo de productos. Ante restricciones de infraestructura para desplegar una base de datos, diseñé una capa de persistencia basada en LocalStorage que abstrae el almacenamiento y permite ejecutar la aplicación de forma completamente cliente.
 
 ➡️ Más proyectos en mi portfolio.
 
@@ -51,7 +50,7 @@ API REST con autenticación JWT, validación de datos, CRUD de productos y usuar
 
 ## 🎯 Intereses actuales
 
-Me interesa seguir creciendo en **backend**, profundizando en arquitectura de sistemas, sistemas distribuidos, observabilidad y calidad de código, trabajando en equipos con foco técnico y buenas prácticas.
+Me interesa comprender profundamente cómo se diseñan y evolucionan los sistemas backend, analizando las decisiones de arquitectura y los compromisos técnicos detrás de cada solución. Busco seguir profundizando en el desarrollo de software para diseñar e implementar soluciones óptimas, mantenibles y escalables, con foco en la calidad técnica y la mejora continua.
 
 ---
 
@@ -60,3 +59,4 @@ Me interesa seguir creciendo en **backend**, profundizando en arquitectura de si
 - **LinkedIn:** https://www.linkedin.com/in/agustin-montoya-26083031a  
 - **Email:** agus7montoya@gmail.com  
 - **Portfolio:** https://agustin-montoya-portfolio.vercel.app/
+- **GitHub:** https://github.com/agustinMontoya2
