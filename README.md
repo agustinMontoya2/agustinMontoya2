@@ -39,6 +39,12 @@ Soy **Backend Developer** con experiencia en el diseño y desarrollo de **sistem
 
 ---
 
+# 🎯 Intereses
+
+Me interesa comprender profundamente cómo se diseñan y evolucionan los sistemas backend, analizando las decisiones de arquitectura y los compromisos técnicos detrás de cada solución. Busco seguir profundizando en el desarrollo de software para diseñar e implementar soluciones óptimas, mantenibles y escalables, con foco en la calidad técnica y la mejora continua.
+
+---
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Perfil Técnico
 
 - 🚀 Desarrollo de APIs REST con NestJS y TypeORM
@@ -93,11 +99,5 @@ Aplicación frontend desarrollada con Next.js para la gestión de turnos, mascot
 | **Observabilidad** | Azure Monitor • App Insights • Winston |
 | **Testing** | Unit Testing • Integration Testing • End-to-End Testing |
 | **Calidad** | Code Reviews • Refactoring • Resolución de bugs |
-
----
-
-# 🎯 Intereses
-
-Me interesa comprender profundamente cómo se diseñan y evolucionan los sistemas backend, analizando las decisiones de arquitectura y los compromisos técnicos detrás de cada solución. Busco seguir profundizando en el desarrollo de software para diseñar e implementar soluciones óptimas, mantenibles y escalables, con foco en la calidad técnica y la mejora continua.
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
